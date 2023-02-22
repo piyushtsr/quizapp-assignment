@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+App features:
+
+    THIS IS A BASIC IMPLEMENTATION FOR QUIZAPP
+
+- login and signup using local storage
+- Quiz with min 10 questions with skip function
+
 Page 1: Login Page
 
 ![1677081406221](image/README/1677081406221.png)
