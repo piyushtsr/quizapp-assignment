@@ -23,3 +23,7 @@ Select an answer :
 Skip a question :
 
 ![1677081667933](image/README/1677081667933.png)
+
+Page 4 : Report
+
+![1677081722504](image/README/1677081722504.png)
